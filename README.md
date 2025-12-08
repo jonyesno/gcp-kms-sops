@@ -32,7 +32,7 @@ The script expects the following variables to be defined in the environment:
   * `PROJECT_ID`
   * `BILLING_ACCOUNT`
   * `REGION`
-  
+
 * Initialize terraform
 
 Terraform expects the followig variables to be defined:
@@ -82,7 +82,7 @@ make init
 make validate check
 ```
 
-## Using SOPS with gcp kms
+## Using SOPS with the KMS key
 
 * Retrive the kms key resource id
 
