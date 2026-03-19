@@ -1,5 +1,7 @@
 # Terraformed GCP KMS for SOPS
 
+NOTE: this repo has moved to [https://codeberg.org/jonyesno/gcp-kms-sops](https://codeberg.org/jonyesno/gcp-kms-sops)
+
 This sets up a new GCP project and uses Terraform to create a KMS key to use
 with [SOPS](https://github.com/getsops/sops)
 
